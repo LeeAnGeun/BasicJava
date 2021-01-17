@@ -128,7 +128,7 @@ public class OperatorClass {
 		
 		// Work
 		// AND
-		int num = 0xF3 & 0xDC;   // 1111 0011 & 1101 1100 = 1101 0000 = 0xd0
+		num = 0xF3 & 0xDC;   // 1111 0011 & 1101 1100 = 1101 0000 = 0xd0
 		System.out.printf("0x%x \n", num);
 		
 		// OR
